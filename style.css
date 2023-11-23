@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    height: 100vh;
+}
+.visual{
+    outline: 2px solid red;
+    flex: 1;
+}
+.sign-form{
+    outline: 2px solid blue;
+    flex: 2;
+    padding: 36px;
+}
